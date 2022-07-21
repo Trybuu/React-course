@@ -1,0 +1,13 @@
+body,
+input,
+button {
+  font-size: 3rem;
+}
+
+.red {
+  color: red;
+}
+
+.big {
+  font-size: 4rem;
+}
